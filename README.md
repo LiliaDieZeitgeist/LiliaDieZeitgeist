@@ -11,5 +11,4 @@ Este é meu repositório pessoal, onde pretendo compartilhar estudos, análises 
 
 ![Estatísticas do GitHub](https://github-readme-stats.vercel.app/api?username=LiliaDieZeitgeist&show_icons=true&theme=dracula)
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/lilianfdealmeida/)
-
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/lilianfdealmeida/)  
