@@ -9,6 +9,4 @@ Este é meu repositório pessoal, onde pretendo compartilhar estudos, análises 
 ![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)  
 ![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=postgresql&logoColor=white) 
 
-![Estatísticas do GitHub](https://github-readme-stats.vercel.app/api?username=LiliaDieZeitgeist&show_icons=true&theme=dracula)
-
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/lilianfdealmeida/)  
