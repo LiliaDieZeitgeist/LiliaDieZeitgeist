@@ -1,16 +1,16 @@
-## Hi there 👋
+# Olá! 👋 Eu sou a Lilian.
+Desenvolvedora | IA & Data Science | 
 
-<!--
-**LiliaDieZeitgeist/LiliaDieZeitgeist** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+- 🎓 Estudante de Economia, entusiasta de IA e análise de dados
+- 💻 Experiência com Python, LLMs e desenvolvimento de chatbots
+- 📈 Explorando o mundo das startups e freelancing em tech
 
-Here are some ideas to get you started:
+### ⚙️ Tecnologias e Ferramentas:
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![OpenAI](https://img.shields.io/badge/OpenAI-412991?style=for-the-badge&logo=openai&logoColor=white)
+![LlamaIndex](https://img.shields.io/badge/LlamaIndex-FF6F00?style=for-the-badge&logo=data:image/svg+xml;base64,...)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+![Estatísticas do GitHub](https://github-readme-stats.vercel.app/api?username=LiliaDieZeitgeist&show_icons=true&theme=dracula)
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/lilianfdealmeida/)
+
