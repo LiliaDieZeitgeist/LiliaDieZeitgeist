@@ -1,7 +1,8 @@
 # Olá! 👋
 Desenvolvedora | IA & Data Science
 
-Eu sou a Lilian. Sou graduanda em Economia, entusiasta da ciência de dados e machine learning e tenho um especial interesse por finanças, metodologia quantitativa aplicada às ciências sociais e linguistíca computacional. Atualmente estou trabalhando com desenvolvimento back-end com suporte para LLMs e inteligência aritifical no geral e extração, carregamente e processamento de dados. 
+Eu sou a Lilian. Sou graduanda em Economia, entusiasta da ciência de dados e machine learning e tenho um especial interesse por finanças, metodologia quantitativa aplicada às ciências sociais e linguistíca computacional. 
+Atualmente estou trabalhando com desenvolvimento back-end com suporte para LLMs e inteligência aritifical no geral e extração, carregamente e processamento de dados.
 Este é meu repositório pessoal, onde pretendo compartilhar estudos, análises e projetos de minha autoria com foco nos meus interesses.
 
 ### ⚙️ Tecnologias e Ferramentas:
